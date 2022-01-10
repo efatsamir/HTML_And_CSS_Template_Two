@@ -1,1 +1,1 @@
-# HTML_And_CSS_Template_Two
+# Responsive landing page template using Html5 & CSS3
